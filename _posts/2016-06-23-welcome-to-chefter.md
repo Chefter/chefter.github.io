@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Calling all culinary explorers!ß"
+title:  "Calling all culinary explorers!"
 author: "Madison"
 date:   2016-06-23 11:11:11 -0400
 categories: blog
