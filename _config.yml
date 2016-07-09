@@ -4,7 +4,11 @@ email: contact@chefter.com
 description: >
   Chefter connects you to our professional chefs for real time support when It counts the most. Our chefs see what you show them using your smart phone camera. It’s like having a chef right on your shoulder, helping you every step of the way.
 baseurl: ""
-url: "http://blog.chefter.com"
+url: http://chefter.github.io
 
 # Build settings
 markdown: kramdown
+
+prose:
+  siteurl: "http://chefter.github.io/"
+  media: "img"
