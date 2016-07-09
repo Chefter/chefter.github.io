@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bedb1a20-0e86-4ce9-9376-54e85a850773" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/hello-food.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/support-motivate-inspire.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md" afterPath="$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md" afterPath="$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md" />
     </list>
     <ignored path="Chefter-Blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -57,25 +59,18 @@
       <file leaf-file-name="2016-06-23-welcome-to-chefter.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="105">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="support-motivate-inspire.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/support-motivate-inspire.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-07-06-support-motivate-inspire.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-07-06-support-motivate-inspire.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -135,10 +130,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md" />
       </list>
     </option>
   </component>
@@ -309,12 +304,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468094124991</updated>
-      <workItem from="1468094126243" duration="3232000" />
+      <workItem from="1468094126243" duration="3473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3232000" />
+    <option name="totallyTimeSpent" value="3473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="178" y="57" width="1440" height="877" extended-state="0" />
@@ -394,22 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/support-motivate-inspire.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -435,6 +414,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-06-23-welcome-to-chefter.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-06-support-motivate-inspire.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
           <folding />
         </state>
       </provider>

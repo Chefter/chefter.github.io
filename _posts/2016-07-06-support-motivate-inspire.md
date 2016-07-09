@@ -5,7 +5,7 @@ author: "Madison"
 date:   2016-07-06 11:11:11 -0400
 categories: blog
 ---
-![Support, Motivate, Inspire]({{site.baseurl}}/_posts/support-motivate-inspire.jpg)
+![Support, Motivate, Inspire]({{site.baseurl}}/img/support-motivate-inspire.jpg)
 
 Chefter. It’s a pretty simple idea. Connect users with professional chefs whenever they need it, for whatever assistance they need. But as we explored this concept, it became increasingly apparent that there are literally thousands of ways that users can interact with Chefter. So in order to guide our journeys, we’re developing the Hostess and that is the topic of today’s blog post.
 

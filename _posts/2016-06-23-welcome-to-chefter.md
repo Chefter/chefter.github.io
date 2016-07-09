@@ -5,7 +5,7 @@ author: "Madison"
 date:   2016-06-23 11:11:11 -0400
 categories: blog
 ---
-![Hello Food]({{site.baseurl}}/_posts/hello-food.jpg)
+![Hello Food]({{site.baseurl}}/img/hello-food.jpg)
 
 Calling all culinary explorers! This blog will be documenting a revolutionary start up company’s journey of exploring food, culture and society through technology. The brainchild of a chef, an anthropology student and a tech wizard, Chefter’s mission is to change the way we’re thinking about food.
 
