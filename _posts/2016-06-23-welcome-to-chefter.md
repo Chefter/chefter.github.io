@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Calling all culinary explorers!"
-author: "Madison"
-date:   2016-06-23 11:11:11 -0400
+title: Calling all culinary explorers!
+author: Madison
+date: '2016-06-23 11:11:11 -0400'
 categories: blog
+published: true
 ---
 ![Hello Food]({{site.baseurl}}/img/hello-food.jpg)
 
-Calling all culinary explorers! This blog will be documenting a revolutionary start up company’s journey of exploring food, culture and society through technology. The brainchild of a chef, an anthropology student and a tech wizard, Chefter’s mission is to change the way we’re thinking about food.
+This blog will be documenting a revolutionary start up company’s journey of exploring food, culture and society through technology. The brainchild of a chef, an anthropology student and a tech wizard, Chefter’s mission is to change the way we’re thinking about food.
 
 In this increasingly virtual age, how are we brave food pioneers supposed to know where to begin our respective culinary journeys without guidance or experience? The personalized experiences we are creating through Chefter is unlike anything that’s been available before. Reconnect with your past by recreating a traditional dish of your heritage or explore new and exciting cuisine from all over the globe. Make a meal out of the random items in your kitchen or design a five course menu and bring a virtual chef along for your grocery shopping trip!
 
