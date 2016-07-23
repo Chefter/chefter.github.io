@@ -2,6 +2,7 @@
 published: true
 title: A Q&A with Chefter CEO Steve D'Angelo
 author: Madison
+categories: blog
 ---
 ![CEOQ&ABlog.jpg]({{site.baseurl}}/img/CEOQ&ABlog.jpg)
 
