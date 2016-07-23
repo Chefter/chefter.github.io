@@ -9,7 +9,7 @@ layout: post
 
 **What inspired you to start this company?**
 
-I always loved cooking. I always loved helping people cook. I’ve been a chef for my entire professional career and fortunate enough to have worked in some incredible kitchens. It’s always been about food. Even examples from my younger days when I would include my phone number and tell people to give me a call for help with a recipe. The revelation was when I was helping my daughter who had just started college. She asked for some cooking tips and I told her to FaceTime me. It was certainly a eureka moment for both of us just thinking what a chef could do with the right kind of information about someone’s culinary interests and skill level. 
+I love cooking and I love helping people cook. I’ve been a chef for my entire professional career and fortunate enough to have worked in some incredible kitchens. It’s always been about food. Even examples from my younger days when I would include my phone number and tell people to give me a call for help with a recipe. The revelation was when I was helping my daughter who had just started college. She asked for some cooking tips and I told her to FaceTime me. It was certainly a eureka moment for both of us just thinking what a chef could do with the right kind of information about someone’s culinary interests and skill level. 
 
 ***
 
