@@ -40,7 +40,7 @@ This recipe is almost bulletproof for easy tear off the bone meat! Try this reci
 
 - 1 tbsp. onion powder
 
--1 tbsp. mustard powder
+- 1 tbsp. mustard powder
 
 - 2 tbsp. fresh lemon juice
 
