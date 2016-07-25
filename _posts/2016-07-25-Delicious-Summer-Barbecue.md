@@ -22,8 +22,6 @@ This recipe is almost bulletproof for easy tear off the bone meat! Try this reci
 
 **Ingredients:**
 
-***
-
 - 2 racks Saint Louis Pork Ribs or Baby Back Rips
 
 - 4-5 tbsp. of your favorite dry rub or our Chefter Creole Spice Blend
@@ -69,8 +67,8 @@ This recipe is almost bulletproof for easy tear off the bone meat! Try this reci
 
 Sources for post:
 
+[Smithsonian.com](http://www.smithsonianmag.com/arts-culture/the-evolution-of-american-barbecue-13770775/?no-ist)
 
-http://www.smithsonianmag.com/arts-culture/the-evolution-of-american-barbecue-13770775/?no-ist
+[The History of Barbecue in the South](http://xroads.virginia.edu/~class/ma95/dove/history.htm)
 
 
-http://xroads.virginia.edu/~class/ma95/dove/history.htm
