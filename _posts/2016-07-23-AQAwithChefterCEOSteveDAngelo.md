@@ -5,18 +5,18 @@ author: Madison
 categories: blog
 layout: post
 ---
-![CEOQ&ABlog.jpg]({{site.baseurl}}/img/CEOQ&ABlog.jpg)
+![CEOQABlog.jpg]({{site.baseurl}}/img/CEOQABlog.jpg)
 
 **What inspired you to start this company?**
 
-I love cooking and I love helping people cook. I’ve been a chef for my entire professional career and fortunate enough to have worked in some incredible kitchens. It’s always been about food. Even examples from my younger days when I would include my phone number and tell people to give me a call for help with a recipe. The revelation was when I was helping my daughter who had just started college. She asked for some cooking tips and I told her to FaceTime me. It was certainly a eureka moment for both of us just thinking what a chef could do with the right kind of information about someone’s culinary interests and skill level. 
+I love cooking and I love helping people cook. I’ve been a chef for my entire professional career and fortunate enough to have worked in some incredible kitchens. It’s always been about food. Even examples from my younger days when I would include my phone number and tell people to give me a call for help with a recipe. The revelation was when I was helping my daughter who had just started college. She asked for some cooking tips and I told her to FaceTime me. It was certainly a eureka moment for both of us just thinking what a chef could do with the right kind of information about someone’s culinary interests and skill level.
 
 ***
 
 
 **Chefter, officially, is launching any day now. How did you bring this idea to life?**
 
-Well, if I had to give it a formula, it’s hard to exactly measure the amount of fortune and luck that has played a part of it but meeting Bryan Spencer, one of our co-founders, and of course the connection to Vincent Narbot, co-founder and CTO, is ultimately the series of events that have allowed this to become real.  But from the very beginning, even the very first moments that this idea manifested itself to me, it seemed inevitable, needed and worthy of effort to connect people to food again. As a chef, it’s amazing how many people really have lost their connection to how food is prepared. I can certainly remember being scared to boil water and make a box of macaroni and cheese when I was younger. The journey of how things are made and the affect it has on people when it is served with love is undeniable. Chefter is meant to share that experience with everybody. 
+Well, if I had to give it a formula, it’s hard to exactly measure the amount of fortune and luck that has played a part of it but meeting Bryan Spencer, one of our co-founders, and of course the connection to Vincent Narbot, co-founder and CTO, is ultimately the series of events that have allowed this to become real.  But from the very beginning, even the very first moments that this idea manifested itself to me, it seemed inevitable, needed and worthy of effort to connect people to food again. As a chef, it’s amazing how many people really have lost their connection to how food is prepared. I can certainly remember being scared to boil water and make a box of macaroni and cheese when I was younger. The journey of how things are made and the affect it has on people when it is served with love is undeniable. Chefter is meant to share that experience with everybody.
 
 
 ***
