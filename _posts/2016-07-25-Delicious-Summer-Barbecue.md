@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 date: '2016-07-25 11:11:11 -0400'
