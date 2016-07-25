@@ -63,6 +63,7 @@ This recipe is almost bulletproof for easy tear of the bone meat! Try this recip
 
 
 Sources for post:
+***
 http://www.smithsonianmag.com/arts-culture/the-evolution-of-american-barbecue-13770775/?no-ist
 ***
 http://xroads.virginia.edu/~class/ma95/dove/history.htm
