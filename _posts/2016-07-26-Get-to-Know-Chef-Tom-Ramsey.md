@@ -4,7 +4,7 @@ layout: post
 author: Madison
 date: '2016-07-25 11:11:11 -0400'
 categories: blog
-title: Get to Know Chef Tome Ramsey
+title: Get to Know Chef Tom Ramsey
 ---
 ![Tom_and_Kitty_Ramsey_with_Goats2_IK_web_t670.jpg]({{site.baseurl}}/img/Tom_and_Kitty_Ramsey_with_Goats2_IK_web_t670.jpg)
 
