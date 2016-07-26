@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 date: '2016-07-25 11:11:11 -0400'
@@ -42,5 +42,4 @@ I learned how to cook from non-chefs. I admired the fancy cooking and plating te
 
 ***
 
-Since I closed my brick-and-mortar restaurant last year, I’ve been doing a series of popup restaurants around the country. We call it stäge, which is short for _stagiare_, the French term for “apprentice”. I’m getting to cook with some great chefs and I’m learning a lot. Regina Charbonneau, who owns the King’s Tavern and Twin Oaks in Natchez, Mississippi, and I are co-authoring a cookbook .. actually a series of cookbooks called “Southern Staples Series”. The first one, _Grits and Greens_, should be finished any day now and off to the publishers who will decide its fate. I’ve got my fingers crossed. I’ve got a QSR [quick service restaurant] concept called bōl that I’m rolling out as a licensing and franchise deal. It’s like a cross between Subway and Chipotle - healthy stuff served in a bowl. But when those are up and running, they don’t need anything from me but guidance. I’m enjoying the travel and consulting and the personal appearances, but I do miss being in the kitchen every day. Who knows … we’ll see. 
-
+Since I closed my brick-and-mortar restaurant last year, I’ve been doing a series of popup restaurants around the country. We call it stäge, which is short for _stagiare_, the French term for “apprentice”. I’m getting to cook with some great chefs and I’m learning a lot. Regina Charbonneau, who owns the King’s Tavern and Twin Oaks in Natchez, Mississippi, and I are co-authoring a cookbook .. actually a series of cookbooks called “Southern Staples Series”. The first one, _Grits and Greens_, should be finished any day now and off to the publishers who will decide its fate. I’ve got my fingers crossed. I’ve got a QSR [quick service restaurant] concept called bōl that I’m rolling out as a licensing and franchise deal. It’s like a cross between Subway and Chipotle - healthy stuff served in a bowl. But when those are up and running, they don’t need anything from me but guidance. I’m enjoying the travel and consulting and the personal appearances, but I do miss being in the kitchen every day. Who knows … we’ll see.
