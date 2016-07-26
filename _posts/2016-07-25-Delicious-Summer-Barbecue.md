@@ -6,7 +6,7 @@ date: '2016-07-25 11:11:11 -0400'
 categories: blog
 title: Delicious Summer Barbecue!
 ---
-![]({{site.baseurl}}/img/bbqblog.JPG)![bbqblog.JPG]({{site.baseurl}}/img/bbqblog.JPG)
+![bbqblog.JPG]({{site.baseurl}}/img/bbqblog.JPG)
 
 
 Barbecue— the art of slow cooking meat over a low, indirect flame. Oh, what a long journey it has been for you barbecue. And in these hot summer months, what’s better than a get together with friends, family and a big pile of barbecue? But before we get to the plate, let’s talk a little bit about the journey. 
