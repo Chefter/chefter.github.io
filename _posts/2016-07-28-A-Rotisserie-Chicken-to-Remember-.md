@@ -23,18 +23,31 @@ _Ingredients:_
 ***
 
 1 Whole Chicken
+
 ***
+
 2 tsp. Dried Thyme Leaves
+
 ***
+
 2 tsp. Kosher Salt
+
 ***
+
 2 tsp. Black Pepper
+
 ***
+
 2 tsp. Garlic Powder
+
 ***
+
 2 tbsp. Unsalted Butter
+
 ***
+
 1 Lemon
+
 ***
 
 _Steps:_
@@ -42,23 +55,23 @@ _Steps:_
 ***
 
 - Pre-heat oven to 365 F. 
-***
+
 - Remove giblets and any materials from the cavity of the chicken then pat dry inside and out with paper towel.
-***
+
 - Mix thyme, salt, pepper and garlic powder.
-***
+
 - Combine 1 tsp. of the salt mixture with the butter and mix with a fork.
-***
+
 - Divide the butter in half and slide equal portions between the skin and meat of each breast, taking care not to tear the skin.
-***
+
 - Rub remaining seasonings on the inside and outside of the bird.
-***
+
 - Truss chicken with chicken twine by tying the legs together and wrapping twine around each wing to tuck everything in tight to the body of the bird. If you don’t have kitchen twine, don’t panic. Just get some for next time and wrap the ends of the legs and wings in a bit of foil. 
-***
+
 - Place the chicken in a roasting pan, either on a rack or just in the bottom of the pan, then place in the hot oven and roast for 1.5 hours or until juices run clear from the deepest part of the thigh when pierced with a fork.
-***
+
 - ALLOW THE BIRD TO REST for 5 minutes per pound. You can lightly cover the bird with foil while resting to keep it warmer.
-***
+
 - Carve the bird by removing leg quarters at the joint and carving the breast away from the bone and removing the wings at the joint. Top cut chicken with fresh lemon juice and serve. 
 
 ***
@@ -73,15 +86,25 @@ _Ingredients:_
 ***
 
 2 Peeled Sweet Potatoes
+
 ***
+
 1 lb. Brussels Sprouts
+
 ***
+
 2 tbsp. Olive Oil
+
 ***
+
 1 tsp. Kosher Salt
+
 ***
+
 1/2 tsp. Red Pepper Flakes
+
 ***
+
 1/2 tsp. Black Pepper
 
 ***
@@ -91,11 +114,11 @@ _Steps:_
 ***
 
 - Pre-heat oven to 350 F.
-***
+
 - Trim hard bottom from brussels sprouts and cut in half from top to bottom.
-***
+
 - Cut sweet potatoes into chunks slightly smaller than the cut sprouts.
-***
+
 - Combine sprouts and potatoes in a large mixing bowl and toss with olive oil and seasonings until all are evenly coated. 
-***
+
 - Spread all on a sheet pan in a single layer, allowing some space between the bits. Roast for 1 hour or until potatoes are fully cooked.
