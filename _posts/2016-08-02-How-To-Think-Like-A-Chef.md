@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 title: How To Think Like A Chef
@@ -18,4 +18,4 @@ As one chef has explained it to me, being a chef is like understanding in differ
 
 Flash forward to 2016 and enter Chefter. We are harnessing this knowledge and power and bringing it to you whenever you call in with your questions and ideas. You get to benefit from chefs right on your shoulder. It’s right there so you don’t have to master, you are guided by the master. You have the access to that knowledge. There are no longer any obstacles between you and amazing, unique food and drink. And you’re only required to put in as much effort as you want to because the knowledge of food is already built in for you. So create something unique out of a few basic ingredients in a time crunch with our help or come at us with an idea or something that challenges you and we’ll accomplish it together! 
 
-So we challenge you, don’t just google recipes and robotronically reproduce the same meals. Take a few minutes, call a chef and create your own unique idea together. 
+So we challenge you, don’t just google recipes and robotronically reproduce the same meals. Take a few minutes, call a chef and create your own unique idea together.
