@@ -6,7 +6,9 @@ description: >
 baseurl: ""
 url: http://blog.chefter.com
 
-# Build settings
+gems: [jekyll-paginate]
+paginate: 3
+paginate_path: "blog/page:num/"
 markdown: kramdown
 
 prose:

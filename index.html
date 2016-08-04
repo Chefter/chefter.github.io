@@ -16,7 +16,7 @@ published: true
 
     <div class="row">
         <div class="post-list col-md-9">
-            {% for post in site.posts %}
+            {% for post in paginator.posts %}
             <div class="box">
                 <div class="box-header">
                     <h3>
@@ -39,6 +39,15 @@ published: true
                 </div>
             </div>
             {% endfor %}
+
+                <div class="pagination pull-right">
+                    {% if paginator.previous_page %}
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="text-uppercase btn btn-primary">Newer</a>
+                    {% endif %}
+                    {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="text-uppercase btn btn-primary">Older</a>
+                    {% endif %}
+                </div>
         </div>
         <div class="blog-sidebar col-md-3">
             {% include sidebar.html %}
