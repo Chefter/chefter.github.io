@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-title: How To Navigate-Your-Way-Through-Our-Chefs
+title: How to Connect with Our Chefs
 author: Madison
 date: '2016-08-09 11:11:11 -0400'
 categories: blog
 ---
-![Navigating our site.jpeg]({{site.baseurl}}/img/phone1.jpeg)
+![Navigate our Chef Network.jpg]({{site.baseurl}}/img/Navigate our Chef Network.jpg)
 
 In this post, we wanted to discuss how you can easily access endless culinary acumen through the Chef Network provided by. This will help expedite your searches and connect you with the Chefs and Food Experts who can work with you best!
 
@@ -52,4 +52,4 @@ At the end of each call you will be able to review the chef with a up to a five 
 
 <img src="{{site.baseurl}}/img/15.review.jpg" alt="Leave a Chefter Review" style="width:200px!important">
 
-We hope that this will help you on your culinary adventures. You’re the explorer and we’re the map! Give us a call. 
+We hope that this will help you on your culinary adventures. You’re the explorer and we’re the map! Give us a call.
