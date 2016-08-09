@@ -7,7 +7,7 @@ In this post, we wanted to discuss how you can easily access endless culinary ac
 
 On the Home or Hostess Page of the app, you’ll see the “Call a Chef Now” button. Press this for instant support based on your skill set and culinary preferences at a fixed rate.
 
-![1.jpg]({{site.baseurl}}/img/1.jpg =150x100)
+![1.jpg]({{site.baseurl}}/img/1.jpg =50x25)
 
 Click on the “Chefs” tab to see a list of all of our culinary experts. Scroll through our chefs and find someone who suits your preferences.  
 
