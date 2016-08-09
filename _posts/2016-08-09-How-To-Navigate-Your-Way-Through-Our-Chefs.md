@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How To Navigate-Your-Way-Through-Our-Chefs
 author: Madison
@@ -12,7 +12,7 @@ In this post, we wanted to discuss how you can easily access endless culinary ac
 
 On the Home or Hostess Page of the app, you’ll see the “Call a Chef Now” button. Press this for instant support based on your skill set and culinary preferences at a fixed rate.
 
-![Call a Chef Now Button.jpg]({{site.baseurl}}/img/1.jpg =550x700)
+![Call a Chef Now Button.jpg]({{site.baseurl}}/img/1.jpg =550x700 "text")
 
 Click on the “Chefs” tab to see a list of all of our culinary experts. Scroll through our chefs and find someone who suits your preferences.  
 
