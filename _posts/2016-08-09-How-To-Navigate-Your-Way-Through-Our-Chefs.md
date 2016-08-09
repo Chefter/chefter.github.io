@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+title: How To Navigate-Your-Way-Through-Our-Chefs
+author: Madison
+date: '2016-08-09 11:11:11 -0400'
+categories: blog
 ---
 ![Navigating our site.jpeg]({{site.baseurl}}/img/phone1.jpeg)
 
