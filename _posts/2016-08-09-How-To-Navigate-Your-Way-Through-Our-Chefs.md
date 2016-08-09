@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Navigating our site.jpeg]({{site.baseurl}}/img/phone1.jpeg)
 
