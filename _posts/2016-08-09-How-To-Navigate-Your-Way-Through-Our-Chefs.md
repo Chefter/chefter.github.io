@@ -62,7 +62,8 @@ You can chose a day and time that the Chef has highlighted on his or her calenda
 ***
 
 <img src="{{site.baseurl}}/img/13.sendrequestchedule.jpg" alt="Set a Meeting with Chef" style="width:200px!important">
-<img src="{{site.baseurl}}/img/14.activityscheduleconfirm.jpg" alt="Confirm your Meeting with a Chef" style="width:200px!important"">
+
+<img src="{{site.baseurl}}/img/14.activityscheduleconfirm.jpg" alt="Confirm your Meeting with a Chef" style="width:200px!important">
 
 Send the request and check your activity box to make sure your call has registered. Before the call, you will receive an instant message alert that your scheduled time is approaching. 
 
