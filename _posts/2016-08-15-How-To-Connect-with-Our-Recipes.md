@@ -3,7 +3,7 @@ published: true
 layout: post
 author: Madison
 date: '2016-08-15 11:11:11 -0400'
-categories: blog
+categories: how-to
 ---
 
 ![recipenetworkblogimage.jpg]({{site.baseurl}}/img/recipenetworkblogimage.jpg)
