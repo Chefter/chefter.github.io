@@ -13,7 +13,7 @@ Through careful selection and organization, we present the Chefter Recipe Librar
 ***
 
 <img src="{{site.baseurl}}/img/filterstab.jpg" alt="Filters" style="width:200px!important">
-<img src="{{site.baseurl}}/img/frenchtab.jpg" alt="French Tabs" style="width:200px!important">
+<img src="{{site.baseurl}}/img/french.jpg" alt="French Tabs" style="width:200px!important">
 
 Chefter offers you the ability to look through our recipes based on their culinary style. Click the filter button at the top left of the Recipes page to look through all of the culinary styles that our recipes embrace. Select your desired filter and view all of the recipes in that section.
 
