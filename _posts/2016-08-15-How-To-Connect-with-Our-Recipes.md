@@ -28,12 +28,14 @@ Scroll through the recipes until you find one that you love. Select that recipe 
 
 If you need a little extra help or want to make the recipe your own, press the “Call a Chef Now” button at the bottom of the screen. The recipe will travel with you as you call the chef so that he or she will know exactly what recipe you are working from. 
 ***
+
 <img src="{{site.baseurl}}/img/recipeonchefpg.jpg" alt="Recipe on Chef Page" style="width:200px!important">
 
 You also have the ability to cook with the chef who created the recipe. If you go to the chefs tab and click on a chef, you will see all of the recipes that chef has created. Click on the recipe and call the chef to get personal culinary guidance on a whole other level. 
 ***
-<img src="{{site.baseurl}}/img/favoritestar.jpg)" alt="Favorite Recipe" style="width:200px!important">
-<img src="{{site.baseurl}}/img/filterstab.jpg)" alt="Filter Recipe" style="width:200px!important">
+
+<img src="{{site.baseurl}}/img/favoritestar.jpg" alt="Favorite Recipe" style="width:200px!important">
+<img src="{{site.baseurl}}/img/filterstab.jpg" alt="Filter Recipe" style="width:200px!important">
 
 If you find a recipe you really love, tap the star in the lower right hand corner to add to your favorites. You can access your favorites by tapping the “favorites” filter from the filter menu on the recipe page. 
 ***
