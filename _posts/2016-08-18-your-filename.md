@@ -1,0 +1,16 @@
+---
+published: false
+---
+For the majority of people out there, cooking can be extremely daunting. Everyone is so worried about what ends up on the plate and how good it tastes, that they totally lose the fun of the experience in the process. Chefter was created to bring fun back into the kitchen with a little extra skill. We love getting feedback from home cooks who talk with our Chefs as often as we can. Recently we received an email from a home cook about their experience and it truly speaks to the experience of Chefter. 
+
+A letter from Cooking in Columbus (GA): 
+
+“So instead of going to one of the same few, local restaurants or to see another movie, my boyfriend and I decided to call a chef and stay in. Neither of us are skilled cooks but we certainly love food. Off the bat, I had a little admitted anxiety about calling a stranger and showing them my basically average kitchen and not so miraculous equipment. After scrolling through all of the Chefs and Recipes, I just had to call and see what all this was about.” 
+
+“As soon as the chef answered, we got right to my questions and to cooking. There wasn’t an awkward introduction. Instead of talking face to face with the chef, I was able to simply show them my kitchen and what I was working with through the camera. When I downloaded the app a few days ago, I filled out my profile of what kitchen equipment I had (basically a stove and a microwave) and my dietary restrictions (vegetarian, 4 years strong!) as well as tastes preferences (bring on the spicy!). As soon as we began the call, my chef knew all of this right away, so I didn’t have to go through explaining what I like to eat so we were able to immediately dive in to cooking.” 
+
+“Having the chef on my shoulder, guiding me through the experience took so much pressure off. I wasn’t focused on the end result of the plate but rather I was paying attention to food in a new way and so was my boyfriend. I wasn’t reading from a recipe. I was able to have the chef tell me how to eye ingredients, which I never thought I’d be able to do. And best of all, my boyfriend and I (and I’m pretty sure the chef, too!) were all having good time, enjoying cooking together instead of me cooking the same few meals and eating out weekly. And the meal we made together with the chef was spectacular to boot! I even got a few cooking tips and tricks from our chef that I’ll probably use every time I cook now.” 
+
+“I was even able to take a pic of my own food for Instagram!! One of my proudest accomplishments. I could even tag the chef that helped cook it and, of course, Chefter. It definitely give us sense of accomplishment and we felt like legit foodies, 5 star meal included.”
+
+“That night I cooked an amazing meal with my boyfriend that we both remember more fondly than any movie night, bar none! Next time, I’m inviting all of my friends over and we’re going to have a sushi night at home with a real Sushi Expert! Disclaimer: Sake will be involved. But I simply can’t wait to share this experience and lots of sashimi with my friends! Using Chefter is literally the best cooking hack of all time. It’s like you have someone telling you all of the answers on a test but it’s not cheating!! Every time I call a chef, I feel like I know a little bit more about my kitchen and what I like to eat.”
