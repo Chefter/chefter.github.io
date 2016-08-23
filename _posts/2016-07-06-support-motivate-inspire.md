@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Support, Motivate, Inspire"
-author: "Madison"
+author: Madison
 date:   2016-07-06 11:11:11 -0400
 categories: blog
 ---

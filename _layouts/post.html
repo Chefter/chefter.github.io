@@ -34,6 +34,29 @@ layout: default
         </article>
 
 
+        {% assign author = site.data.people[page.author] %}
+        {% if author %}
+        <div class="box margin-top-20 padding-10" id="madison">
+            <div class="box-body">
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="{{ author.avatar | prepend: site.baseurl }}" class="img-rounded img-responsive
+                        margin-top-10" alt="{{ author.name }}" title="{{ author.name }}">
+                    </div>
+
+                    <div class="col-md-10">
+                        <h4 class="strong">About {{ author.name }}</h4>
+                        <p>
+                            {{ author.bio }}
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        {% endif %}
+
+
         <div id="disqus_thread" class="box comments margin-top-20 padding-10"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
