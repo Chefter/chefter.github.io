@@ -49,12 +49,16 @@ Here’s a couple of options for you Labor Day 2016 Menu. All of these curated r
 
 _Just a Bite_
 
-[Grilled Pineapple and Summer Tomato Salad](http://recipes.chefter.com/g37ds), [Grilled Greek Sausage](https://recipes.chefter.com/g36t4), [Grilled Watermelon & Creole Tomato Salad with Blu Crab](https://recipes.chefter.com/g37tc)
+[Grilled Pineapple and Summer Tomato Salad](http://recipes.chefter.com/g37ds) [Grilled Greek Sausage](https://recipes.chefter.com/g36t4)
+[Grilled Watermelon & Creole Tomato Salad with Blu Crab](https://recipes.chefter.com/g37tc)
 
 _Bring on the Meats_
 
-[Smoky Barbecue Ribs](https://recipes.chefter.com/g3ytq) with a Red Barbecue Sauce, [Ribeye](https://recipes.chefter.com/g2yt1) in a [Ancho Chile & Coffe Rub](https://recipes.chefter.com/g27ds), [Apple Brined Chicken Breasts](https://recipes.chefter.com/g27t2)
+[Smoky Barbecue Ribs with a Red Barbecue Sauce](https://recipes.chefter.com/g3ytq) [Ribeye](https://recipes.chefter.com/g2yt1) in a [Ancho Chile & Coffe Rub](https://recipes.chefter.com/g27ds)
+[Apple Brined Chicken Breasts](https://recipes.chefter.com/g27t2)
 
 _Sweets Please_
 
-[Peach Caprese](https://recipes.chefter.com/g37d2), [Sabayon](https://recipes.chefter.com/g25tm) or a [Rum Coconut Liqueur Ribbon Peach Pie](https://recipes.chefter.com/g27tm)
+[Peach Caprese](https://recipes.chefter.com/g37d2) 
+[Sabayon](https://recipes.chefter.com/g25tm) 
+[Rum Coconut Liqueur Ribbon Peach Pie](https://recipes.chefter.com/g27tm)
