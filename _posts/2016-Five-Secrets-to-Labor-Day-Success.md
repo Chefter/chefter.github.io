@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Madison
+title: Five Secrets to Labor Day Success
+date: '2016-09-01 11:11:11 -0400'
+categories: blog
 ---
 Labor Day 2016 - it was here before we even knew it! And there’s no better time to get together with friends and family for a weekend celebration. But in every body’s busy lives it can be difficult to bring every one together and even more difficult to focus on enjoying time with your loved ones. So, Chefter wants to give you a quick crash course on how to be the most prepared this Labor Day. That way you can enjoy your friends, family and food without the stress of cooking all day! Here are our _top 5 tips and tricks_ to expertly prepare a truly elevated Labor Day meal. 
 
