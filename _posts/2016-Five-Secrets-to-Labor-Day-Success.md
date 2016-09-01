@@ -50,7 +50,7 @@ Here’s a couple of options for you Labor Day 2016 Menu. All of these curated r
 
 ***
 
-**_Just a Bite_**
+_**Just a Bite**_
 
 [Grilled Pineapple and Summer Tomato Salad](http://recipes.chefter.com/g37ds)
 
@@ -58,7 +58,7 @@ Here’s a couple of options for you Labor Day 2016 Menu. All of these curated r
 
 [Grilled Watermelon & Creole Tomato Salad with Blu Crab](https://recipes.chefter.com/g37tc)
 
-**_Bring on the Meats_**
+_**Bring on the Meats**_
 
 [Smoky Barbecue Ribs with a Red Barbecue Sauce](https://recipes.chefter.com/g3ytq)
 
@@ -66,7 +66,7 @@ Here’s a couple of options for you Labor Day 2016 Menu. All of these curated r
 
 [Apple Brined Chicken Breasts](https://recipes.chefter.com/g27t2)
 
-**_Sweets Please_**
+_**Sweets Please**_
 
 [Peach Caprese](https://recipes.chefter.com/g37d2) 
 
