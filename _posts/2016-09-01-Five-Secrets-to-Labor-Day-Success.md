@@ -6,7 +6,8 @@ title: Five Secrets to Labor Day Success
 date: '2016-09-01 11:11:11 -0400'
 categories: blog
 ---
-![ff.jpg]({{site.baseurl}}/img/ff.jpg)
+![onthegrill.jpg]({{site.baseurl}}/img/onthegrill.jpg)
+
 
 
 Labor Day 2016 - it was here before we even knew it! And there’s no better time to get together with friends and family for a weekend celebration. But in every body’s busy lives it can be difficult to bring every one together and even more difficult to focus on enjoying time with your loved ones. So, Chefter wants to give you a quick crash course on how to be the most prepared this Labor Day. That way you can enjoy your friends, family and food without the stress of cooking all day! Here are our _top 5 tips and tricks_ to expertly prepare a truly elevated Labor Day meal. 
@@ -49,7 +50,7 @@ This is where your grill let's you get really creative. Add a handful of your fa
 
 ***
 
-Here’s a couple of options for you Labor Day 2016 Menu. All of these curated recipes pair wonderfully together so feel free to mix and match for your perfect grill out! And don’t forget, if you need any extra culinary help, use promo code [**LaborDay15**](https://www.chefter.com/download/index.html) for a call to one of our Chefs on us!
+Here’s a couple of options for you Labor Day 2016 Menu. All of these curated recipes pair wonderfully together so feel free to mix and match for your perfect grill out! And don’t forget, if you need any extra culinary help, use promo code [LaborDay15](https://www.chefter.com/signup/user/index.html?invite=LaborDay15) for a call worth up to $15 to one of our Chefs on us!
 
 ***
 
