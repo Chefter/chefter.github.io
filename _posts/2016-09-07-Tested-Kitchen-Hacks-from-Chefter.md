@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 title: Tested Kitchen Hacks from Chefter
