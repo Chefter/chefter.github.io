@@ -6,10 +6,10 @@ title: Tested Kitchen Hacks from Chefter
 date: '2016-09-07 11:11:11 -0400'
 categories: blog
 ---
-![]({{site.baseurl}}/img/ll.jpg)![ll.jpg]({{site.baseurl}}/img/ll.jpg)
+![]({{site.baseurl}}/img/ll.jpg)
 
 
-Okay, there are a million cooking hacks out there. Some good, some bad, some just out right ridiculous! After out team tested out many a hack, we narrowed it down to our absolute favorites and the best hacks we know of! So next time you're in the kitchen, give one of these them a try. Do you know of an amazing hack not on our list? Comment and we'll put it to the test! 
+Okay, there are a million cooking hacks out there. Some good, some bad, some just out right ridiculous! After out team tested out "many a hack", we narrowed it down to our absolute favorites and the best hacks we know of! So next time you're in the kitchen, give one of these a try. Do you know of an amazing hack not on our list? Comment and we'll put it to the test! 
 
 ***
 
@@ -25,7 +25,7 @@ Add a little water, baking soda, kosher salt and a slice or two of lemon to your
 
 **Ultimate baking hack.**
 
-What’s the secret to super fluffy goodness when you’re baking anything? A little steam! Pour a quarter cup of water directly on the bottom of your preheated oven to create steam and humid. You can add it just before you place your bake in the oven or add it in just before you take it out. The extra moisture helps to fluff up whatever you are baking!
+What’s the secret to super fluffy goodness when you’re baking anything? A little steam! Pour a quarter cup of water directly on the bottom of your preheated oven to create steam and humidity. You can add it just before you place your bake in the oven or add it in just before you take it out. The extra moisture helps to fluff up whatever you are baking!
 
 
 **Save that wine!**
@@ -40,9 +40,9 @@ Next time, instead of chasing that little bit of shell around with your fork or 
 
 **Ice cubes- not just for water.** 
 
-Boring, right? Well think again! The possibilities are literally endless. Add in some herbs, edible flowers or fruit juice to your next tray of ice cubes for some extra kick for your glass of water or cocktail. Love iced coffee? What about coffee cubes? Next time you brew up a cup mix together equal parts water and coffee, freeze it in some ice trays and add it to your next ice coffee. No more watery iced coffee ever. 
+Boring, right? Well think again! The possibilities are literally endless. Add in some herbs, edible flowers or fruit juice to your next tray of ice cubes for some extra kick for your glass of water or cocktail. Love iced coffee? What about coffee cubes? Next time you brew up a cup mix together equal parts water and coffee, freeze it in some ice trays and add it to your next ice coffee. _No more watery iced coffee ever_. 
 
 
 **Have a Cast Iron skillet?**
 
-If you do, it’s important to take care of it. If you wash your Cast Iron skillet with soap and water, always remember to pour in about a tablespoon of oil and polish it into the skillet or else it will rust. No bueno. Is your skillet just a little dirty? Pour in a tablespoon of salt and scrub with a paper towel. Et voila! That way, you won't have to re-polish it! 
+If you do, it’s important to take care of it. If you wash your Cast Iron skillet with soap and water, always remember to pour in about a tablespoon of oil and polish it into the skillet or else it will rust. _No bueno._ Is your skillet just a little dirty? Pour in a tablespoon of salt and scrub with a paper towel. _Et voila!_ That way, you won't have to re-polish it!
