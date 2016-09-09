@@ -42,6 +42,4 @@ Say you or your loved one has a medical condition that restricts your diet, want
 
 **Get help with wine and cocktail pairing**
 
-Did you prepare a great steak, fish, chicken, etc. dinner but you’re not sure which wines or cocktails would compliment your meal best? Connect with a chef on Chefter and they will be able to guide you to the perfect accompaniment for your meal or special occasion. 
-
-
+Did you prepare a great steak, fish, chicken, etc. dinner but you’re not sure which wines or cocktails would compliment your meal best? Connect with a chef on Chefter and they will be able to guide you to the perfect accompaniment for your meal or special occasion.
