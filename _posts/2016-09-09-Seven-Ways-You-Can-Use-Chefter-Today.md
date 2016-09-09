@@ -4,10 +4,10 @@ published: true
 ![Screen Shot 2016-09-09 at 4.51.36 PM.png]({{site.baseurl}}/img/Screen Shot 2016-09-09 at 4.51.36 PM.png)
 
 
-Chefter is an app that connects you to professional chefs for real time culinary support when you need it. Use our app on your smartphone to bring a chef right into your kitchen. Our motivational chefs will help you cook better with inspired recipes based on worldly dishes and easy methods just a click a way. Talk live with talented both on-demand or through reservations. Access to this amount of culinary knowledge allows home cooks and food lovers everywhere to explore the world of cuisine. 
+Chefter is an app that connects you to professional chefs for real time culinary support when you need it. Use our app on your smartphone to bring a chef right into your kitchen. Our motivational chefs will help you cook better with inspired recipes based on worldly dishes and easy methods just a click a way. Talk live with talented chefs both on-demand or through reservations. Access to this amount of culinary knowledge allows home cooks and food lovers everywhere to explore the world of cuisine. 
 
 
-Here are 7 of the most popular ways so far that home cooks enjoy using Chefter. 
+Here are 7 of the most popular ways so far that foodies and home cooks enjoy using Chefter. 
 
 
 
@@ -33,12 +33,12 @@ Say you’ve always wanted to make a certain dish but you’ve never been brave 
 
 **Have a cooking party with your friends and family**
 
-Instead of just having a dinner party where you cook everything or everyone bringing their own dish to a party, why don’t you try cooking with your friends a family instead. One of our favorites so far is the Sushi Rolling Party. Invite all of your friends over, put on some aprons, connect with a chef on our app and get real time guidance from a Sushi expert! Everyone can start rolling up some sushi together. You’d be surprised how much fun you can have. Pro tip: sake always helps! 
+Instead of just having a dinner party where you cook everything or everyone bringing their own dish to a party, why don’t you try cooking with your friends and family instead. One of our favorites so far is the Sushi Rolling Party. Invite all of your friends over, put on some aprons, connect with a chef on our app and get real time guidance from a Sushi expert! Everyone can start rolling up some sushi together. You’d be surprised how much fun you can have. Pro tip: sake always helps! 
 
 
 **Get help with your medical diets or culinary lifestyle choices**
 
-Say you or your loved one has a medical condition that restricts your diet, want to lose or gain weight, or subscribe to a vegan, vegetarian, etc. lifestyle.  Who wouldn’t want a little help with their meals. It’s difficult to pour through pages of recipes, to purchase certain products, to prepare the meals or to keep your diet varied enough. Well, there’s an app for that! The chefs on Chefter have a plethora of culinary knowledge to assist you with specific food needs. 
+Say you or your loved one has a medical condition that restricts your diet, want to lose or gain weight, or subscribe to a vegan, vegetarian, etc. lifestyle.  Who _wouldn’t_ want a little help with their meal? It’s difficult to pour through pages of recipes, to purchase certain products, to prepare the meals or to keep your diet varied enough. Well, there’s an app for that! The chefs on Chefter have a plethora of culinary knowledge to assist you with specific food needs. 
 
 
 **Get help with wine and cocktail pairing**
