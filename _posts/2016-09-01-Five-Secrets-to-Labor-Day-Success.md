@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Madison
-title: Five Secrets to Labor Day Success
+title: Five Secrets to Rock Your Next Grill Out
 date: '2016-09-01 11:11:11 -0400'
 categories: blog
 ---
