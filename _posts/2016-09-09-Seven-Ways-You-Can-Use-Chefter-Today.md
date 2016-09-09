@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+author: Madison
+categories: App
+title: Delicious Summer Barbecue!
 ---
 ![Screen Shot 2016-09-09 at 4.51.36 PM.png]({{site.baseurl}}/img/Screen Shot 2016-09-09 at 4.51.36 PM.png)
 
