@@ -5,7 +5,8 @@ author: Madison
 categories: App
 title: Seven Ways You Can Use Chefter Today
 ---
-![Screen Shot 2016-09-09 at 4.51.36 PM.png]({{site.baseurl}}/img/Screen Shot 2016-09-09 at 4.51.36 PM.png)
+![cookbettertogethr.jpg]({{site.baseurl}}/img/cookbettertogethr.jpg)
+
 
 
 Chefter is an app that connects you to professional chefs for real time culinary support when you need it. Use our app on your smartphone to bring a chef right into your kitchen. Our motivational chefs will help you cook better with inspired recipes based on worldly dishes and easy methods just a click a way. Talk live with talented chefs both on-demand or through reservations. Access to this amount of culinary knowledge allows home cooks and food lovers everywhere to explore the world of cuisine. 
