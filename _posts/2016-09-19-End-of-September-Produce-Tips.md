@@ -15,7 +15,7 @@ Toward the end of September, fall produce starts to become very vibrant and tast
 **Apples**
 
 
-Have trouble with your apples turning brown after you cute them. Place them in a water bath next time until you’re ready to serve or eat them. The water keeps the apple from oxidizing and turning brown. 
+Have trouble with your apples turning brown after you cut them? Place them in a water bath next time until you’re ready to serve or eat them. The water keeps the apple from oxidizing and turning brown. 
 
 
 
@@ -45,11 +45,11 @@ The best way to make your leafy greens last longer is to grab a plastic food con
 **Sweet Potatoes**
 
 
-To find the perfect tasting sweet potato, look for small to medium sized ones. these will be a little sweeter and smoother tasting. Large sweet potatoes tend to be a little more solid and starchy tasting. Also, you’ll want to find one with no dark spots and even colored skin and the darker the color the better!
+To find the perfect tasting sweet potato, look for small to medium sized ones. These will be a little sweeter and smoother tasting. Large sweet potatoes tend to be a little more solid and starchy tasting. Also, you’ll want to find one with no dark spots, even-colored skin and the darker the color the better!
 
 
 
 **Persimmons**
 
 
-Persimmons are delicious when in-season but it’s often difficult to find that perfectly ripe one. Here’s a little trick to ripen your persimmons overnight! Simple place them in a ziplock bag in the freezer over night. The next day, take them out of the freezer and let them defrost a good few hours before cooking or eating. You’ll taste and see that they are perfectly soft, sweet and ripe. 
+Persimmons are delicious when in-season but it’s often difficult to find that perfectly ripe one. Here’s a little trick to ripen your persimmons overnight! Simply place them in a ziplock bag in the freezer over night. The next day, take them out of the freezer and let them defrost a good few hours before cooking or eating. You’ll taste and see that they are perfectly soft, sweet and ripe. 
