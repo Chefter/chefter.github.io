@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Madison
+title: End of September Produce Tips
+date: '2016-09-19 11:11:11 -0400'
+categories: blog
 ---
 ![fallvegguide.jpg]({{site.baseurl}}/img/fallvegguide.jpg)
 
