@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 title: End of September Produce Tips
@@ -52,4 +52,4 @@ To find the perfect tasting sweet potato, look for small to medium sized ones. T
 **Persimmons**
 
 
-Persimmons are delicious when in-season but it’s often difficult to find that perfectly ripe one. Here’s a little trick to ripen your persimmons overnight! Simply place them in a ziplock bag in the freezer over night. The next day, take them out of the freezer and let them defrost a good few hours before cooking or eating. You’ll taste and see that they are perfectly soft, sweet and ripe. 
+Persimmons are delicious when in-season but it’s often difficult to find that perfectly ripe one. Here’s a little trick to ripen your persimmons overnight! Simply place them in a ziplock bag in the freezer over night. The next day, take them out of the freezer and let them defrost a good few hours before cooking or eating. You’ll taste and see that they are perfectly soft, sweet and ripe.
