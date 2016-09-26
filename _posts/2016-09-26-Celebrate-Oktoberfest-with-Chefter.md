@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Madison
+title: Celebrate Oktoberfest with Chefter
+date: '2016-09-26 11:11:11 -0400'
+categories: blog
 ---
 ![oktoberfest.jpg]({{site.baseurl}}/img/oktoberfest.jpg)
 
