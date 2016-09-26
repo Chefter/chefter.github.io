@@ -18,7 +18,7 @@ Oktoberfest. It started in Munich, 1810 to celebrate a royal wedding and the wel
 Now from the third week of September to the first week of October, people everywhere celebrate what has become the festival of beer lovers. The tradition is over 200 years old and though it holds special meaning for Bavarians and Germans everywhere, I think it’s also earned a special place in everyone’s hearts. It’s the beginning of fall, the kids are in school, football’s back on, and there’s no better time to enjoy a lovely craft beer. 
 
 
-Try these German recipes the next time you're feeling Oktoberfest-y. And if you want some extra guidance or help with how to cook something, don't forget you can connect with a chef and show them what you're working with through our app! Now you can cook these dishes like you're from Germany.
+Try these German recipes the next time you're feeling Oktoberfest-y. And if you want some extra guidance or help with how to cook something, don't forget you can connect with a chef and show them what you're working with through [our app](https://itunes.apple.com/app/apple-store/id1083651067?mt=8)! Now you can cook these dishes like you're from Germany.
 
 
 
