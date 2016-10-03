@@ -1,0 +1,38 @@
+.modal-body {
+  img {
+    height: 85px;
+    width: 100px;
+  }
+}
+
+.modal {
+  background: transparent !important;
+  display: block;
+  position: fixed;
+  top: 10px;
+  z-index: 1;
+}
+
+.modal-header {
+  background: @kCHEF_secondaryColor;
+  color: @kCHEF_whiteColor;
+  .close {
+    margin-top: 2px;
+  }
+}
+
+.modal-header-info {
+  background-color: @kCHEF_darkGreyColor !important;
+  color: @kCHEF_whiteColor;
+  .close {
+    color: @kCHEF_whiteColor;
+    opacity: .7;
+    text-shadow: 0 0 0;
+  }
+}
+
+@media (min-width: 800px) {
+  .modal-dialog {
+    width: 800px;
+  }
+}

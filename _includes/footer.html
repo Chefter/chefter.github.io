@@ -1,66 +1,53 @@
 <footer>
-  <div class="container">
-    <ul class="list-inline">
-      <li><a href="http://blog.chefter.com/index.html">Blog</a></li>
-      <li><a href="http://recipes.chefter.com/">Recipes</a></li>
-      <li><a href="mailto:contact@chefter.com">Contact</a></li>
-      <li><a href="https://www.chefter.com/terms/index.html" target="_blank">Terms</a></li>
-      <li><a href="https://www.chefter.com/privacy/index.html" target="_blank">Privacy</a></li>
-      <li><a href="https://dashboard.chefter.com/#/signup">Register as a Chef</a></li>
-      <li><a href="https://www.chefter.com/download/index.html">Download iOS</a></li>
-    </ul>
-    <div class="row hidden-xs">
+    <div class="hidden-xs padding-bottom-20">
+      <span class="text-center margin-bottom-20 text-uppercase small">Keep in touch with us</span>
       <ul class="list-inline footer-secondary">
-        <li>
+        <li class="padding-20">
             <a href="https://www.facebook.com/ChefterInc/" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-square fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
+              <i class="fa fa-facebook"></i>
             </a>
         </li>
-        <li>
+        <li class="padding-20">
             <a href="https://twitter.com/chefter_atl" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-square fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
+              <i class="fa fa-twitter"></i>
             </a>
         </li>
-        <li>
+        <li class="padding-20">
             <a href="https://www.linkedin.com/company/chefter-inc-" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-square fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
+              <i class="fa fa-linkedin"></i>
             </a>
         </li>
-        <li>
+        <li class="padding-20">
             <a href="https://www.instagram.com/chefterapp/?hl=en" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-square fa-stack-2x"></i>
-                  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                </span>
+              <i class="fa fa-instagram"></i>
             </a>
         </li>    
-        <li>
+        <li class="padding-20">
             <a href="https://www.pinterest.com/ChefterApp/" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-square fa-stack-2x"></i>
-                  <i class="fa fa-pinterest fa-stack-1x fa-inverse" aria-hidden="true"></i>
-                </span>
+              <i class="fa fa-pinterest" aria-hidden="true"></i>
             </a>
         </li>    
       </ul>
+      <hr>
     </div>
-  </div>
+    <ul class="list-inline">
+      <li><a href="http://recipes.chefter.com/" class="text-uppercase">Our Recipes</a></li>
+      <li><a href="https://itunes.apple.com/app/apple-store/id1083651067?pt=118115216&ct=blog&mt=8" class="text-uppercase">Download iOS</a></li>
+      <li><a href="https://dashboard.chefter.com/#/signup" class="text-uppercase">Register as a Chef</a></li>
+      <li><a href="https://www.chefter.com/terms/index.html" target="_blank" class="text-uppercase">Terms & Conditions</a></li>
+      <li><a href="https://www.chefter.com/privacy/index.html" target="_blank" class="text-uppercase">Privacy Policy</a></li>
+    </ul>
+    <div class="padding-10 small">
+      &copy; 2016 Chefter, Inc. All rights reserved.
+    </div>
+
 </footer>
 
 <!-- Javascript -->
-<script src="https://www.chefter.com/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="https://www.chefter.com/bower_components/sweetalert/dist/sweetalert.min.js"></script>
-<script src="https://www.chefter.com/bower_components/AdminLTE/dist/js/app.js"></script>
-<script src="https://www.chefter.com/assets/js/app.js"></script>
+<script src="{{ "/bower_components/bootstrap/dist/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/sweetalert/dist/sweetalert.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/AdminLTE/dist/js/app.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/progressbar.js/dist/progressbar.min.js" | prepend: site.baseurl }}"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

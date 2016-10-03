@@ -1,0 +1,33 @@
+footer{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background: @kCHEF_whiteColor;
+  border-top: 1px solid @kCHEF_lightGreyColor;
+  a, a:hover, a:focus{
+  	color: #222;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  }
+  li{
+  	@media (max-width: 768px) {
+      display: inherit !important;
+      padding-bottom: 5px;
+  	}
+  }
+  .footer-secondary{
+  	li{
+	  	@media (max-width: 768px) {
+	      display: inline !important;
+	  	}
+	}
+  	a{
+  		padding-left: 0px;
+  		padding-right: 0px; 
+  		color: #555;
+  	}
+  	a:hover, a:focus{
+  		color: #222;
+  	}
+  }
+}

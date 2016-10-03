@@ -1,0 +1,28 @@
+.room-section {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.room-section #screen-subscriber .screen {
+  margin: auto;
+}
+.room-section .row {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.loader {
+  margin-bottom: 30px;
+}
+.room-bottom {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.room-bottom .table {
+  margin-bottom: 0px;
+}
+.room-bottom .box-header {
+  padding: 10px 20px;
+}
+.room-bottom .room-create .box-body {
+  padding-top: 30px;
+}

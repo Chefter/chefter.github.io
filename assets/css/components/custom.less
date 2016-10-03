@@ -1,0 +1,143 @@
+// -------------------------
+// LANDING INTRO
+// -------------------------
+.landing {
+  height: 100%;
+  min-height: 100% !important;
+  .video {
+    background-color: @kCHEF_primaryColor;
+    background-size: cover;
+    color: @kCHEF_whiteColor;
+    height: auto;
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    transition: 1s opacity;
+    width: auto;
+    z-index: -100;
+  }
+  .intro {
+    @media (max-width: 768px) {
+      margin-top: 65px;
+      padding-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      background: @kCHEF_primaryColor;
+    }
+    .input-group-btn {
+      .btn {
+        .lg{
+          display: block;
+          @media (max-width: 768px) {
+            display: none;
+          }
+        }
+        .sm{
+          display: none;
+          @media (max-width: 768px) {
+            display: block;
+          }
+        }
+      }
+    }
+    color: @kCHEF_whiteColor;
+    height: 100%;
+    min-height: 100% !important;
+    text-align: center;
+    .signup {
+      @media (max-width: 768px) {
+        padding-top: 30px;
+        top: inherit;
+        left: inherit;
+        background-color: #fff;
+        border-radius: @border-radius;
+        transform: initial;
+        position: inherit;
+        margin-right: auto;
+        margin-left: auto;
+      }
+      padding: 100px 30px 30px 30px;
+      background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 42%, rgba(255,255,255,1) 99%); /* FF3.6-15 */
+      background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 42%,rgba(255,255,255,1) 99%); /* Chrome10-25,Safari5.1-6 */
+      background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 42%,rgba(255,255,255,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+      color: @kCHEF_darkGreyColor;
+      h4{
+        margin: auto;
+        max-width: 80%;
+        @media (max-width: 768px) {
+          max-width: none;
+        }
+        font-size: 25px;
+        line-height: 1.5;
+      }
+      .input-group{
+        margin-top: 30px;
+        .btn-primary{
+          text-transform: uppercase;
+          i{
+            margin-right: 7px;
+          }
+        }
+      }
+      width: 100%;
+      position: absolute;
+      bottom: 0px;
+    }
+  }
+}
+
+
+// -------------------------
+// SHARE
+// -------------------------
+.share{
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  .btn{
+    color: #fff;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+  .twitter{
+    background-color: #55acee;
+  }
+  .facebook{
+    background-color: #3b5998;
+  }
+  .google{
+    background-color: #dc4e41;
+  }
+}
+
+// -------------------------
+// BLOG
+// -------------------------
+#blog {
+  margin-top: -20px;
+  color: @kCHEF_darkGreyColor;
+  .box{
+    img{
+      width: 100%;
+    }
+    .box-header {
+      padding-bottom: 10px;
+      border-radius: 0px;
+      background: none;
+      color: @kCHEF_darkGreyColor;
+      a {
+        color: @kCHEF_darkGreyColor;
+      }
+    }
+    .box-body {
+      padding-top: 0px;
+    }
+    ul{
+      margin-left: 20px;
+    }
+  }
+}
