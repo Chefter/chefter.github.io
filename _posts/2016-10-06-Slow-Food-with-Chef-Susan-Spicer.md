@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 title: Slow Food with Chef Susan Spicer
