@@ -1,7 +1,13 @@
 ---
 published: false
+layout: post
+author: Madison
+title: Slow Food with Chef Susan Spicer
+date: '2016-10-06 11:11:11 -0400'
+categories: blog
 ---
-![susan_spicer.jpg]({{site.baseurl}}/img/susan_spicer.jpg)
+![susan_steps.jpg]({{site.baseurl}}/img/susan_steps.jpg)
+
 
 
 **Susan Spicer**- a Parisian-trained chef, [James Beard Award Recipient](https://www.jamesbeard.org/chef/susan-spicer), owner of multiple New Orleans restaurants such as [Mondo](http://mondoneworleans.com/) and [Bayona](http://www.bayona.com/), a local New Orleans charity supporter, Slow Food Movement advocate and all around sweet-heart of cuisine! 
