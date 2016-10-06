@@ -6,8 +6,7 @@ title: Slow Food with Chef Susan Spicer
 date: '2016-10-06 11:11:11 -0400'
 categories: blog
 ---
-![susan_steps.jpg]({{site.baseurl}}/img/susan_steps.jpg)
-
+![9421598-mmmain 2.jpg]({{site.baseurl}}/img/9421598-mmmain 2.jpg)
 
 **Susan Spicer**- a Parisian-trained chef, [James Beard Award Recipient](https://www.jamesbeard.org/chef/susan-spicer), owner of multiple New Orleans restaurants such as [Mondo](http://mondoneworleans.com/) and [Bayona](http://www.bayona.com/), a local New Orleans charity supporter, Slow Food Movement advocate and all around sweet-heart of cuisine! 
 
@@ -25,5 +24,4 @@ Susan’s [Grilled Shrimp with Coriander Sauce](https://recipes.chefter.com/g3yt
 
 Susan’s [Tomato, Corn and Avocado Salad with Crispy Tortilla Strips](https://recipes.chefter.com/g3zdc).
 
-Susan’s [Oven Roasted Crispy Chicken](https://recipes.chefter.com/g3zd1).  
-
+Susan’s [Oven Roasted Crispy Chicken](https://recipes.chefter.com/g3zd1).
