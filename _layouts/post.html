@@ -7,14 +7,12 @@ layout: default
     <div class="col-md-9">
         <article class="post box" itemscope itemtype="http://schema.org/BlogPosting">
             <header class="box-header">
-                <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-                <p class="post-meta">
-                    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b
+                <p class="post-meta text-center">
+                    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B
                         %-d, %Y" }}
                     </time>
-                    {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
-                        itemprop="name">{{ page.author }}</span></span>{% endif %}
                 </p>
+                <h3 class="post-title text-center" itemprop="name headline">{{ page.title }}</h1>
             </header>
 
             <div class="post-content box-body" itemprop="articleBody">
@@ -54,10 +52,12 @@ layout: default
 
             </div>
         </div>
+
+        {% include download.html %}
         {% endif %}
 
 
-        {% include download.html %}
+        
 
 
 
