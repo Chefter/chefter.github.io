@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Madison
+date: '2016-10-11 11:11:11 -0400'
+title: Bouillabaisse Showstopper
+categories: blog
 ---
 ![bouillabasse.jpg]({{site.baseurl}}/img/bouillabasse.jpg)
 
