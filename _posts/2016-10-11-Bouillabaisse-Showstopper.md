@@ -3,7 +3,7 @@ published: true
 layout: post
 author: Madison
 date: '2016-10-11 11:11:11 -0400'
-title: _posts/2016-10-11-Bouillabaisse-Showstopper.md
+title: Bouillabaisse Showstopper
 categories: blog
 ---
 ![bouillabasse.jpg]({{site.baseurl}}/img/bouillabasse.jpg)
