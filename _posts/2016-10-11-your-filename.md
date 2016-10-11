@@ -3,7 +3,7 @@ published: false
 layout: post
 author: Madison
 date: '2016-10-11 11:11:11 -0400'
-title: Bouillabaisse Showstopper
+title: _posts/2016-10-11-Bouillabaisse-Showstopper.md
 categories: blog
 ---
 ![bouillabasse.jpg]({{site.baseurl}}/img/bouillabasse.jpg)
@@ -25,4 +25,3 @@ The goal of Chefter is to give food lovers everywhere access to the vast world c
 
 
 Here’s a recipe for a spectacular[Bouillabaisse](http://bit.ly/2c5FCbl)from Chef Brian Mottola, Chef de Cuisine of Emeril’s NOLA Restaurant
-
