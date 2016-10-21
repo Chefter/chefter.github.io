@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: Madison
+title: Thanksgiving Dinner Made Easy with Chefter
+date: '2016-10-21 11:11:11 -0400'
+categories: blog
 ---
 ![thanksgivingtable.jpg]({{site.baseurl}}/img/thanksgivingtable.jpg)
 
