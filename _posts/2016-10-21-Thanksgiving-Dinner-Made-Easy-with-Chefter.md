@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![thanksgivingtable.jpg]({{site.baseurl}}/img/thanksgivingtable.jpg)
 
