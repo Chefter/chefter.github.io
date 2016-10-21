@@ -1,5 +1,7 @@
 ---
 published: true
+author: Madison
+layout: post
 ---
 ![thanksgivingtable.jpg]({{site.baseurl}}/img/thanksgivingtable.jpg)
 
