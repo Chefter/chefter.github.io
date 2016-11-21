@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 title: 'This Thanksgiving, Having a Chef on Your Phone Changes Everything'
