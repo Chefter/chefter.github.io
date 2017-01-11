@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Madison
 date: '2017-1-10 11:11:11 -0400'
@@ -22,4 +22,4 @@ Smartphones are extremely helpful and integral to our daily lives. With all of t
 
 _Now your smartphone can help you eat healthy, high quality, real food too!_ [Chefter](https://www.chefter.com/) allows you to _speak 1:1_ with a trained, professional chef so now **every food-related question you have can be answered** without endless pages of web results. You can [receive personal culinary guidance by talking with a chef]( "https://itunes.apple.com/app/apple-store/id1083651067?mt=8") and showing them what is in your kitchen or local market using the app. 
 
-So instead of stressing about what healthy food you will eat or how in the world you will prepare it, you can simply **connect with chef on Chefter to be guided every step of the way!** 
+So instead of stressing about what healthy food you will eat or how in the world you will prepare it, you can simply **connect with chef on Chefter to be guided every step of the way!**
