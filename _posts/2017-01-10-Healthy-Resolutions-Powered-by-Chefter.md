@@ -1,7 +1,13 @@
 ---
 published: false
+layout: post
+author: Madison
+date: '2017-1-10 11:11:11 -0400'
+categories: blog
+title: Healthy Resolutions Powered by Chefter!
 ---
-![]({{site.baseurl}}/img/download.png)![download.png]({{site.baseurl}}/img/download.png)
+![download.png]({{site.baseurl}}/img/download.png)
+
 
 
 January is a time of change, renewed energy and usually the beginning of some self-set resolutions. After New Years celebrations where we throw down with champagne and snacks following the holiday season where we enjoyed plenty of good meals, now we get to hit the **reset button**. 
