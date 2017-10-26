@@ -1,10 +1,10 @@
 ---
-published: true
+published: false
 layout: post
 author: Madison
 date: '2017-1-10 11:11:11 -0400'
 categories: blog
-title: post/Healthy-Resolutions-Powered-by-Chefter!
+title: Healthy Resolutions Powered by Chefter!
 ---
 ![download.png]({{site.baseurl}}/img/download.png)
 
