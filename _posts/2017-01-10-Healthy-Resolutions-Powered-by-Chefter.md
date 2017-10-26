@@ -4,7 +4,7 @@ layout: post
 author: Madison
 date: '2017-1-10 11:11:11 -0400'
 categories: blog
-title: Healthy Resolutions Powered by Chefter!
+title: post/Healthy-Resolutions-Powered-by-Chefter!
 ---
 ![download.png]({{site.baseurl}}/img/download.png)
 
