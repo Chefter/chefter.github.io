@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Madison
 layout: post
 categories: blog
