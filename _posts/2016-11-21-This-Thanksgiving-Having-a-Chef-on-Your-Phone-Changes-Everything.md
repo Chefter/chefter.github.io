@@ -3,7 +3,7 @@ published: false
 layout: post
 author: Madison
 title: 'This Thanksgiving, Having a Chef on Your Phone Changes Everything'
-date: '2016-11-21 11:11:11 -0400'
+date: '2017-11-01 11:11:11 -0400'
 categories: blog
 ---
 ![thanksgivingtable2.jpg]({{site.baseurl}}/img/thanksgivingtable2.jpg)
