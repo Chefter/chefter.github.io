@@ -1,8 +1,9 @@
 ---
-published: true
+published: false
 author: Madison
 layout: post
 categories: blog
+date: '2017-11-16 11:11:11 -0400'
 ---
 ![IMG_6895.jpg]({{site.baseurl}}/img/IMG_6895.jpg)
 
