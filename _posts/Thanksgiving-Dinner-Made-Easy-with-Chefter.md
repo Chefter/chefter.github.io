@@ -3,7 +3,7 @@ published: true
 author: Madison
 layout: post
 categories: blog
-date: '2017-11-07'
+date: '2017-11-07 11:11:11 -0400'
 ---
 ![thanksgivingtable.jpg]({{site.baseurl}}/img/thanksgivingtable.jpg)
 
